@@ -18,4 +18,6 @@ Also I'm working hard to become a backend developer.
 </div>
 
 <h3>Also you can find me...</h3>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<a href="https://transparent-nickel-ed2.notion.site/Bello-1c1d3a51446180e1b78fcbff31f7818e?pvs=4" rel = "nofollow">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
