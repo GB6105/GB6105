@@ -1,4 +1,4 @@
-<h2> Hi, there </h2> :)
+<h2> About me </h2> :)
 Thanks for visiting!<br>
 I'm TaeKyun Kim, Majoring in 'Mathematics' and 'Information and Communication Engineering' at Inha University.<br>
 Also I'm working hard to become a backend developer.
